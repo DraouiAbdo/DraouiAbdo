@@ -1,5 +1,5 @@
 ### Hi there my name is Abdelghani, AKA Abdo 👋
-#### Associate Professor at CS departement, Ali Kafi University Center, Algeria
+#### Teaching Assistant at CS departement, Ali Kafi University Center, Algeria
 
 - At University, I teach : 
   - Data Structures and Algorithms in C.
