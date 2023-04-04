@@ -6,7 +6,7 @@
   - Web Development.
 
 
-- 🌱 I’m currently learning Spring Framework, Angular and Clean Coding.
+- 🌱 I’m currently learning **Spring** Framework, **Angular** and **Clean Coding**.
 - 🤔 I’m looking for a remote job as backend Java EE /Spring developer 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abdelghani-draoui-19bb0076/).
 
