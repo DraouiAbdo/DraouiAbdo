@@ -11,5 +11,4 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abdelghani-draoui-19bb0076/).
 
 
-![](https://github-readme-stats.vercel.app/api?username=draouiabdo)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=draouiabdo)
