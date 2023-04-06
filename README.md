@@ -1,4 +1,4 @@
-### Hi there my name is Abdelghani, AKA Abdo 👋
+### Hi there 👋,  my name is (Dr.Draoui) => Dr² 
 #### Teaching Assistant at CS departement, Ali Kafi University Center, Algeria
 
 - At University, I teach : 
