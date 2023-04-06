@@ -1,5 +1,5 @@
 ### Hi there 👋,  my name is (Dr.Draoui) => Dr² 
-#### Teaching Assistant at CS departement, Ali Kafi University Center, Algeria
+#### Instructor of CS Courses at Ali Kafi University Center, Algeria
 
 - At University, I teach : 
   - Data Structures and Algorithms in C.
