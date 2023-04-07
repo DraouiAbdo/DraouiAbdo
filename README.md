@@ -1,4 +1,4 @@
-### Hi there 👋,  my name is (Dr.Draoui) => Dr² 
+### Hi there 👋,  my name is DRAOUI Abdelghani
 #### Instructor of CS Courses at Ali Kafi University Center, Algeria
 
 - At University, I teach : 
